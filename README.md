@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on game development with java
-- 🌱 I’m currently learning C, C++, C#, Assembly, lua, python, and java
+- 🔭 I’m currently working on GUI development
+- 🌱 I’m currently learning C# and java
 - 💬 Feel free to ask me about my current projects
-- 📫 How to reach me: (I have not set up a business email yet)
+- 📫 How to reach me: Please contact my business email ishaanasingh2012@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm one of the few young people who code java with passion
+- ⚡ Fun fact: idk🤷‍♂️
